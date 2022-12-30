@@ -32,7 +32,7 @@ function App() {
         API NBP
       </a>
       <div>
-        Uwaga! Aktualny kurs {currency}: {currencyValue} zł
+        Uwagi! Aktualny kurs {currency}: {currencyValue} zł
       </div>
     </div>
   );
