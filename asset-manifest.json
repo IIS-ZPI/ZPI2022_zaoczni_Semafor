@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ZPI2022_zaoczni_Semafor/static/css/main.82d9c74a.css",
-    "main.js": "/ZPI2022_zaoczni_Semafor/static/js/main.e4bf1b07.js",
+    "main.js": "/ZPI2022_zaoczni_Semafor/static/js/main.3ebcfc90.js",
     "static/js/787.c0b6aa3f.chunk.js": "/ZPI2022_zaoczni_Semafor/static/js/787.c0b6aa3f.chunk.js",
     "index.html": "/ZPI2022_zaoczni_Semafor/index.html",
     "main.82d9c74a.css.map": "/ZPI2022_zaoczni_Semafor/static/css/main.82d9c74a.css.map",
-    "main.e4bf1b07.js.map": "/ZPI2022_zaoczni_Semafor/static/js/main.e4bf1b07.js.map",
+    "main.3ebcfc90.js.map": "/ZPI2022_zaoczni_Semafor/static/js/main.3ebcfc90.js.map",
     "787.c0b6aa3f.chunk.js.map": "/ZPI2022_zaoczni_Semafor/static/js/787.c0b6aa3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82d9c74a.css",
-    "static/js/main.e4bf1b07.js"
+    "static/js/main.3ebcfc90.js"
   ]
 }
